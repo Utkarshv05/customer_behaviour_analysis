@@ -124,8 +124,10 @@ These findings help guide marketing, sales, and retention strategies for better 
 
 ## 📚 Reference
 
-Project inspired and guided by:
-🎥 [Data Tutorials YouTube Channel](https://youtu.be/5PrZvPeUw60?si=By3ug8qP7pjEDfYa)
+<h2>🎥 Project Inspired & Guided By</h2>
+<a href="https://youtu.be/5PrZvPeUw60">
+  <img src="https://img.youtube.com/vi/5PrZvPeUw60/0.jpg" width="800">
+</a>
 
 ---
 
